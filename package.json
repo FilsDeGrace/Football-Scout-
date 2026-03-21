@@ -1,11 +1,8 @@
 {
-  "name": "football-agent",
-  "version": "1.0.0",
+  "name": "app",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "build": "next build"
   },
   "dependencies": {
     "next": "latest",
