@@ -1,5 +1,8 @@
 import { useState, useEffect, useRef } from "react";
-
+export default function Home() {  
+  const [data, setData] = useState(null);  
+  
+  
 // ─────────────────────────────────────────────────────────────────────────────
 // STORAGE
 // ─────────────────────────────────────────────────────────────────────────────
